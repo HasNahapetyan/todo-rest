@@ -1,0 +1,13 @@
+platform:
+  security:
+    jwt:
+      issuer: kidzSchool
+      expiration: 30 #minutes
+      secretKey: your256bitsecretkeyyour256bitsecretkey
+
+platform2:
+  tokens:
+    jwt:
+      expiration: 60 #minutes
+      secretKey: yoursecretkeyyoursecretkeyyoursecretkeyyoursecretkeyyoursecretkeyyoursecretkeyyoursecretkey
+
