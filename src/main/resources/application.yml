@@ -11,3 +11,5 @@ platform2:
       expiration: 60 #minutes
       secretKey: yoursecretkeyyoursecretkeyyoursecretkeyyoursecretkeyyoursecretkeyyoursecretkeyyoursecretkey
 
+springdoc:
+  packages-to-scan: com.example.todorest.endpoint
